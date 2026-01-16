@@ -1,0 +1,8 @@
+flask==3.0.0
+onnxruntime==1.17.0
+transformers==4.37.0
+numpy<2.0.0
+# Dev tools
+pylint
+black
+pytest
